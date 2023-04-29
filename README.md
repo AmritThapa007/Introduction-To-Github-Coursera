@@ -1,2 +1,2 @@
 # Introduction-To-Github-Coursera
-This is my Assesement for the Coursera course.
+This is my Assesement part for the Coursera course.
